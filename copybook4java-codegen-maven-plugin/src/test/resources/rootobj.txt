@@ -1,8 +1,0 @@
-01  ACCOUNT.
- 02  BASIC.
-  03  BALANCE         PIC 9(10).
-  03  TITLE           PIC X(40).
-
- 02 DETAIL.
-   03  DECIMALBALANCE  PIC 9(10)V9(2).
-   03  OWNTITLE        PIC X(40).
